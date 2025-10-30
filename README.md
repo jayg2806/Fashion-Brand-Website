@@ -67,5 +67,6 @@ Font Style: Arial for clarity and elegance
 
 # Author
 
-Jayshree Gupta
+_Jayshree Gupta_
+
 Created as part of a web design project demonstrating brand presentation and customer engagement through HTML.
